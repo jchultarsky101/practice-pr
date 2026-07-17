@@ -5,4 +5,3 @@ fn greeting(name: &str) -> String {
 fn main() {
     println!("{}", greeting("Julian"));
 }
-// direct edit
